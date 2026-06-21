@@ -2,7 +2,7 @@
 
 I'm Nicola, an independent engineer and consultant. I work with startups and small teams across the whole stack, usually the harder problems: low latency services, distributed systems, and keeping them reliable in production.
 
-Previously founding engineer at Toggl and backend engineer at Domyn.
+Previously founding engineer at [Toggl](https://github.com/toggl) and backend engineer at [Domyn](https://github.com/igeniusai).
 
 Most of my best work is proprietary, but the public pieces are below.
 
